@@ -1,1 +1,5 @@
-Hola
+Hola, este un archivo de tecto regular.
+
+Esta es la linea 1.
+
+Esta la 2.
