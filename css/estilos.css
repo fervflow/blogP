@@ -5,10 +5,18 @@ body {
 }
 #container {
     width: 60%;
-    margin: 20px auto;
+    margin: 0px auto;
     border: 1px solid darkturquoise;
-    padding: 1em;
+    padding: 0;
 }
 #container h1 {
     font-size: 20px;
+}
+#cabecera {
+    background: lightseagreen;
+    color: linen;
+    margin: 0;
+}
+#cabecera h2 {
+    margin: 0;
 }
