@@ -2,9 +2,14 @@ body {
     color: darkslategrey;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: darkslategrey;
+}
+p,h1,h2 {
+    margin: 0;
+    padding: 0.3em 0;
 }
 #container {
-    width: 60%;
+    width: 80%;
     margin: 0px auto;
     border: 1px solid darkturquoise;
     padding: 0;
@@ -13,10 +18,18 @@ body {
     font-size: 20px;
 }
 #cabecera {
-    background: lightseagreen;
+    text-align: left;
+    background: teal;
     color: linen;
     margin: 0;
+    font-size: 1.5em;
+    padding-left: 0.5em;
 }
-#cabecera h2 {
+#cabecera #logo {
+    width: 2em;
+    vertical-align: middle;
+}
+#post {
+    background-color: lavender;
     margin: 0;
 }
